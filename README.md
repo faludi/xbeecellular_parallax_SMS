@@ -1,7 +1,5 @@
 # xbeecellular_parallax_SMS
-BlocklyProp Code for Parallax Activity Bot with whiskers roaming and SMS controls
-
-With Digi XBee Cellular, a Parallax ActivityBot can be controlled with text messages from any cell phone, from anywhere in the world.
+With Digi XBee Cellular, a Parallax ActivityBot can be controlled with text messages from any cell phone, from anywhere in the world. This BlocklyProp code gives full SMS control of the robot from a smartphone, or it can operate autonomously by using its whiskers to avoid collisions.
 
 * The .svg file contains the BlocklyProp code that runs the robot.
 * The .c and .side files are the same code, exported for SimpleIDE
